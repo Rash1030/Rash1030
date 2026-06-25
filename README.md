@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashmi Aththanayke</h1>
-<h3 align="center">Aspiring Business Analyst | Interested in Software Quality Assurance</h3>
+<h3 align="center">Aspiring Business Analyst | Project Management Enthusiast</h3>
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=rash1030&label=Profile%20views&color=0e75b6&style=flat" alt="rash1030" /> </p>
 
