@@ -60,34 +60,12 @@ Third-year Management Information Systems undergraduate at NSBM Green University
 
 ---
 
-## 📂 Featured Projects
-
-### 📊 Global Sales Performance Dashboard
-Power BI dashboard developed to analyze sales performance, customer trends, and business KPIs.
-
-### 📦 ERP Inventory & Stock Management System
-Database-driven inventory management solution supporting inventory tracking and operational reporting.
-
-### 🏭 Warehouse Management System
-Web-based warehouse management solution focused on inventory control and order processing.
-
-### 🐾 Vet Talk Mobile Application
-Cross-platform veterinary consultation application with UI/UX design and mobile development contributions.
-
-### 🧘 Relax On Mobile Application
-User-centered mobile application UI/UX design focused on accessibility and usability.
-
----
-
 ## 📫 Connect With Me
 
 📧 Email: rashmi.d.aththanayaka@gmail.com
 
 💼 LinkedIn:
 www.linkedin.com/in/rashmi-aththanayake-2a9b412a9
-
-💻 GitHub:
-github.com/Rash1030
 
 ---
 
