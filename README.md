@@ -1,73 +1,94 @@
-<h1 align="center">Hi 👋, I'm Rashmi Aththanayke</h1>
-<h3 align="center">Aspiring Business Analyst | Project Management Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Rashmi Aththanayake</h1>
 
-<p align="Center"> <img src="https://komarev.com/ghpvc/?username=rash1030&label=Profile%20views&color=0e75b6&style=flat" alt="rash1030" /> </p>
+<h3 align="center">
+Aspiring Business Analyst | Data Analytics Learner | Project Management Enthusiast
+</h3>
 
-- 🌱 I’m currently learning **Business Process Modeling (BPMN, UML), Agile Practices, and Software Testing Fundamentals**
-
-- 🤝 I’m an Undergraduate at **NSBM Green University**
-
-- 💬 Ask me about **BPMN|UML|Agile Practices|Software Testing Fundamentals**
-
-- 📫 How to reach me **rashmi.d.aththanayaka@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rashmi-aththanayake-2a9b412a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi-aththanayake-2a9b412a9" height="30" width="40" /></a>
+<p align="center">
+Third-year Management Information Systems undergraduate at NSBM Green University with interests in Business Analysis, Project Management, and Data Analytics.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
-  <!-- Row 1 -->
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  </a>
-</p>
+## 🎯 Career Focus
 
-<p align="left">
-  <!-- Row 2 -->
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  </a>
-</p>
+- Business Analysis
+- Project Management
+- Business Analytics
+- Data Analytics
 
-<p align="left">
-  <!-- Row 3 -->
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
-  </a>
-  <a href="https://www.wxwidgets.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" width="40"/>
-  </a>
-</p>
+---
+
+## 🌱 Currently Learning
+
+- Business Process Modeling (BPMN & UML)
+- Agile & Scrum Practices
+- Stakeholder Analysis
+- User Stories & Use Cases
+- Software Testing Fundamentals
+- Advanced Power BI
+
+---
+
+## 🛠️ Core Skills
+
+### Business Analysis & Project Management
+- Requirement Analysis
+- Business Process Analysis
+- BPMN & UML
+- Agile Fundamentals
+- Jira
+
+### Data Analytics
+- Power BI
+- SQL
+- MySQL
+- Microsoft Excel
+- Data Visualization
+
+### Development
+- Java
+- Spring Boot
+- Flutter
+- HTML/CSS
+- Python
+
+### Design
+- Figma
+- Canva
+- UI/UX Design
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Global Sales Performance Dashboard
+Power BI dashboard developed to analyze sales performance, customer trends, and business KPIs.
+
+### 📦 ERP Inventory & Stock Management System
+Database-driven inventory management solution supporting inventory tracking and operational reporting.
+
+### 🏭 Warehouse Management System
+Web-based warehouse management solution focused on inventory control and order processing.
+
+### 🐾 Vet Talk Mobile Application
+Cross-platform veterinary consultation application with UI/UX design and mobile development contributions.
+
+### 🧘 Relax On Mobile Application
+User-centered mobile application UI/UX design focused on accessibility and usability.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: rashmi.d.aththanayaka@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/rashmi-aththanayake-2a9b412a9
+
+💻 GitHub:
+github.com/Rash1030
+
+---
+
+⭐ Open to internship opportunities in Business Analysis, Business Analytics, Project Management, and Data Analytics.
